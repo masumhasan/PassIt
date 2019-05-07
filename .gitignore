@@ -22,3 +22,4 @@ cypress.env.json
 # But permit final JS files
 !/js/*.min.js
 !/js/*.min.js.map
+config.bat
